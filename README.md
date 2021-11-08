@@ -26,6 +26,8 @@ Here are some ideas to get you started: -->
 
 **you can also reach me on**
 
-[web](https://www.saurabhchirde.com)  |  [twitter](https://www.twitter.com/saurabhchirde)  |  [instagram](https://wwww.instagram.com/saurabhchirde)  |  [linkedin](https://www.linkedin.com/in/saurabhchirde)
- 
- 
+[web](https://www.saurabhchirde.com)  |  [twitter](https://www.twitter.com/saurabhchirde)  |  [instagram](https://www.instagram.com/saurabhchirde/)  |  [linkedin](https://www.linkedin.com/in/saurabhchirde)
+
+<br> 
+<img width="50%" src = "https://github-readme-stats.vercel.app/api?username=saurabhchirde&show_icons=true&theme=tokyonight" />
+<!-- <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?username=saurabhchirde&theme=tokyonight" /> -->
