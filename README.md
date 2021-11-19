@@ -2,13 +2,6 @@
 
 ![coverimage](https://user-images.githubusercontent.com/92800463/140734230-64a33748-4d11-409d-8279-d0b8758f6e0a.png)
 
-
-
-<!--
-**saurabhchirde/saurabhchirde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 - 🌱 I’m currently learning **React, MongoDB** 
 
 🎯 familiar with 
@@ -29,5 +22,5 @@ Here are some ideas to get you started: -->
 [web](https://www.saurabhchirde.com)  |  [twitter](https://www.twitter.com/saurabhchirde)  |  [instagram](https://www.instagram.com/saurabhchirde/)  |  [linkedin](https://www.linkedin.com/in/saurabhchirde)
 
 <br> 
-<img width="50%" src = "https://github-readme-stats.vercel.app/api?username=saurabhchirde&show_icons=true&theme=tokyonight" />
-<!-- <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?username=saurabhchirde&theme=tokyonight" /> -->
+<img align="left" width="48%" src = "https://github-readme-stats.vercel.app/api?username=saurabhchirde&show_icons=true&theme=tokyonight" />
+<img align="center" width= "43%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchirde&layout=compact" />
