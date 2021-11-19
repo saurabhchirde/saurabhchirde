@@ -22,5 +22,6 @@
 [web](https://www.saurabhchirde.com)  |  [twitter](https://www.twitter.com/saurabhchirde)  |  [instagram](https://www.instagram.com/saurabhchirde/)  |  [linkedin](https://www.linkedin.com/in/saurabhchirde)
 
 <br> 
-<img align="left" width="48%" src = "https://github-readme-stats.vercel.app/api?username=saurabhchirde&show_icons=true&theme=tokyonight" />
-<img align="center" width= "43%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchirde&layout=compact" />
+<img align="center" width= "48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchirde&layout=compact&theme=tokyonight" />
+<img align="center" width="48%" src = "https://github-readme-stats.vercel.app/api?username=saurabhchirde&show_icons=true&theme=tokyonight" />
+
