@@ -2,7 +2,7 @@
 
 ![coverimage](https://user-images.githubusercontent.com/92800463/140734230-64a33748-4d11-409d-8279-d0b8758f6e0a.png)
 
-- 🌱 I’m currently learning **React, MongoDB** 
+- 🌱 I’m currently learning @neogCamp-2022
 
 🎯 familiar with 
 
